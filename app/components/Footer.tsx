@@ -98,7 +98,7 @@ export default function Footer() {
                                 </h2>
 
                                 <p className="mt-2 text-sm uppercase tracking-[0.4em] text-white/40">
-                                    Music Producer Portfolio
+                                    Music Producer & Composer 
                                 </p>
                             </div>
                         </div>
